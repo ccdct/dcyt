@@ -1,2 +1,2 @@
-# dcytweb
+# dcyt
 Reposición oficial del DCYT
